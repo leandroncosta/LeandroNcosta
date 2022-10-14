@@ -2,7 +2,7 @@
 ### Hello! Meu nome é Leandro! 😀
 
  - 💻 Front end Developer
- -  <samp> Estudando programação e atualmente tenho foco em desenvolvimento front end .</samp>
+ - 📚<samp> Estudando programação e atualmente tenho foco em desenvolvimento front end .</samp>
 
 <br/><br/>
 
