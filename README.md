@@ -1,6 +1,5 @@
 
-### Hello! Meu nome é Leandro! 😀
-
+### Olá! Meu nome é Leandro! 😀
  - 📚<samp> Estudando programação e atualmente tenho foco em desenvolvimento web .</samp>
 
 <br/>
