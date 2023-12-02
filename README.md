@@ -5,6 +5,7 @@
 
  - 📚<samp> Estudando programação com foco em desenvolvimento web .</samp>
  - 🌱 Atualmente estudando Java
+ - 💻 Análise e desenvolvimento de sistemas
 
 <br/>
 
