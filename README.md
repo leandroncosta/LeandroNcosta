@@ -3,9 +3,10 @@
 
 ## Meu nome é Leandro Costa
 
- - 📚<samp> Estudando programação com foco em desenvolvimento web .</samp>
- - 🌱 Atualmente estudando Java
  - 💻 Análise e desenvolvimento de sistemas
+ - 📚 <samp> Estudando programação com foco em desenvolvimento web .</samp>
+ - 🌱 Atualmente estudando Java
+ - 🤔 Pretendo: estudar e conhecer mais sobre a tecnologia C# .NET
 
 <br/>
 
