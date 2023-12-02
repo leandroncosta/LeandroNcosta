@@ -4,7 +4,7 @@
 ## Meu nome é Leandro Costa
 
  - 💻 Análise e desenvolvimento de sistemas
- - 📚 <samp> Estudando programação com foco em desenvolvimento web .</samp>
+ - 📚 <samp> Estudando programação com foco em desenvolvimento web</samp>
  - 🌱 Atualmente estudando Java
  - 🤔 Pretendo: estudar e conhecer mais sobre a tecnologia C# .NET
 
@@ -26,6 +26,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+          
 </div>
  
  ##
