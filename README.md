@@ -1,6 +1,9 @@
 
-### Olá! Meu nome é Leandro! 😀
+### Olá! 👋
+
+## Meu nome é Leandro Costa
  - 📚<samp> Estudando programação e atualmente tenho foco em desenvolvimento web .</samp>
+ - 🌐 Estudando Java
 
 <br/>
 
@@ -8,7 +11,7 @@
    <a href="https://github.com/LeandroNcosta">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroNcosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNcosta&layout=compact&langs_count=7&theme=tokyonight"/>
+  <--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNcosta&layout=compact&langs_count=7&theme=tokyonight"/>-->
     
    
 
