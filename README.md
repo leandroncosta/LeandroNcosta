@@ -2,8 +2,9 @@
 ### Olá! 👋
 
 ## Meu nome é Leandro Costa
+
  - 📚<samp> Estudando programação e atualmente tenho foco em desenvolvimento web .</samp>
- - 🌐 Estudando Java
+ - 🌱 Estudando Java
 
 <br/>
 
