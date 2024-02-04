@@ -7,7 +7,7 @@ Quero ter a oportunidade de contribuir e trabalhar em projetos desafiadores e ex
 
 - 💻 Análise e desenvolvimento de sistemas
 - 📚 Estudando programação com foco em desenvolvimento web
--  <!-- - 🌱 Atualmente estudando Java -->
+   <!-- - 🌱 Atualmente estudando Java -->
 
 
  <div>
