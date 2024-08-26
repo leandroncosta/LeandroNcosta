@@ -5,7 +5,6 @@ Sou Leandro, desenvolvedor em formação e entusiasta de tecnoligia. Embora não
 Quero ter a oportunidade de contribuir e trabalhar em projetos desafiadores e explorar diferentes tecnologias.
 
 
-- 💻 Análise e desenvolvimento de sistemas
 - 📚 Estudando programação com foco em desenvolvimento web
    <!-- - 🌱 Atualmente estudando Java -->
 
