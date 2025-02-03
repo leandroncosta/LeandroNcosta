@@ -5,8 +5,8 @@
 Quero ter a oportunidade de contribuir e trabalhar em projetos desafiadores e explorar diferentes tecnologias. -->
 
 - 👋 Olá, eu sou Leandro
-- 📚 Eu estou cursando TSI
-- 🌱 Eu estou aprendendo mais C# .NET atualmente
+- 📚 Cursando TSI
+- 🌱 A tecnologia que estou aprendendo e aprimorando, atualmente, é C# .NET 
 - 💻 Desenvolvimento web
    <!-- - 🌱 Atualmente estudando Java -->
 
