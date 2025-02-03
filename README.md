@@ -1,11 +1,13 @@
 
-# 👋 Olá
+<!--# 👋 Olá, eu sou Leandro -->
 
-Sou Leandro, desenvolvedor em formação e entusiasta de tecnoligia. Embora não tenha experiência profissional no setor, estou em constante aprendizado e estou confiante em minha capacidade de enfrentar desafios que surgirem. 
-Quero ter a oportunidade de contribuir e trabalhar em projetos desafiadores e explorar diferentes tecnologias.
+ <!--estou em constante aprendizado e estou confiante em minha capacidade de enfrentar desafios que surgirem. 
+Quero ter a oportunidade de contribuir e trabalhar em projetos desafiadores e explorar diferentes tecnologias. -->
 
-
-- 📚 Estudando programação com foco em desenvolvimento web
+- 👋 Olá, eu sou Leandro
+- 📚 Eu estou cursando TSI
+- 🌱 Eu estou aprendendo mais C# .NET atualmente
+- 💻 Desenvolvimento web
    <!-- - 🌱 Atualmente estudando Java -->
 
 
