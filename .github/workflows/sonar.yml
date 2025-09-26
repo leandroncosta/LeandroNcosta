@@ -27,7 +27,7 @@ jobs:
                   path: ~/.sonar/cache
                   key: ${{ runner.os }}-sonar
 
-            - name: SonarQube Scan
+            - name: Setup SonarQube Scan
               uses: SonarSource/sonarcloud-github-action@master
               with:
                   args: >
