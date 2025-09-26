@@ -1,0 +1,38 @@
+name: SonarQube Analysis
+
+on:
+    push:
+        branches:
+            - main
+    pull_request:
+        branches:
+            - main
+
+jobs:
+    sonar:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Repository
+              uses: actions/checkout@v3
+
+            - name: Set up Java
+              uses: actions/setup-java@v3
+              with:
+                  distribution: temurin
+                  java-version: '17'
+
+            - name: Cache SonarQube packages
+              uses: actions/cache@v3
+              with:
+                  path: ~/.sonar/cache
+                  key: ${{ runner.os }}-sonar
+
+            - name: SonarQube Scan
+              uses: SonarSource/sonarcloud-github-action@master
+              with:
+                  args: >
+                      -Dsonar.projectKey=${{ github.repository_owner }}_${{ github.event.repository.name }}
+                      -Dsonar.sources=.
+              env:
+                  SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
+                  SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
